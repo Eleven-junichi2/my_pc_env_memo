@@ -29,10 +29,11 @@ Chrome
 Git
 
 ## Game
-Warframe
-The Sims 4
 Minecraft
 Muse Dash
+StarCraft
+The Sims 4
+Warframe
 
 ## Font
 Caskaydia Cove Nerd Font
