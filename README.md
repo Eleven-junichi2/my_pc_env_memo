@@ -49,4 +49,17 @@
 ## IME
 - Google 日本語入力
 
+## Programming Language
+- Python
+- Rust
+
+## Game Distribution Platform
+- Steam
+
+## Optimization
+- speedyfox
+- DiskInfo
+
+
+
 
