@@ -1,61 +1,52 @@
 # my_pc_env_memo
 
 ## Code Editor
-
-Visual Studio Code
-Vim
-Notepad++
+- Visual Studio Code
+- Vim
+- Notepad++
 
 ## Terminal
-
-Alacritty
+- Alacritty
 
 ## Shell
-
-PowerShell x.x=>7.0
-- oh-my-posh
+- PowerShell x.x=>7.0
+  - oh-my-posh
 
 ## Graphic
-
-Piskel
-Gravit Designer
-Gimp
-Blockbench
+- Piskel
+- Gravit Designer
+- Gimp
+- Blockbench
 
 ## Sound
-
-LMMS
-Auadcity
+- LMMS
+- Audacity
 
 ## Web Brower
-
-Firefox
-Brave
-Chrome
+- Firefox
+- Brave
+- Chrome
 
 ## VCS
-
-Git
+- Git
 
 ## Game
-
-Minecraft
-Muse Dash
-StarCraft: Remastered
-StarCraft II
-The Sims 4
-Warframe
-Osu
+- Minecraft
+- Muse Dash
+- StarCraft: Remastered
+- StarCraft II
+- The Sims 4
+- Warframe
+- Osu
 
 ## Font
-
-Caskaydia Cove Nerd Font
-(Noto Nerd Font)
+- Caskaydia Cove Nerd Font
+- (Noto Nerd Font)
 
 ## Archiver
-7-Zip
+- 7-Zip
 
 ## IME
-Google 日本語入力
+- Google 日本語入力
 
 
