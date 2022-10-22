@@ -17,13 +17,23 @@
 - Gravit Designer
 - Gimp
 - Blockbench
+- Blender
 
 ## Sound
 - LMMS
 - Audacity
+- VOICEVOX
+
+### VstPlugin
+- Valhalla Super massive
+- KSHMR Essentials Kick
+- La Petite Excite
+- Magical8bit
 
 ## Web Brower
 - Firefox
+-- uBlock Origin
+-- Tab Session Manager
 - Brave
 - Chrome
 
@@ -60,6 +70,8 @@
 - speedyfox
 - DiskInfo
 
+## GameEngine
+- Unity
 
 
 
