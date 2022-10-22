@@ -32,8 +32,8 @@
 
 ## Web Brower
 - Firefox
--- uBlock Origin
--- Tab Session Manager
+  - uBlock Origin
+  - Tab Session Manager
 - Brave
 - Chrome
 
