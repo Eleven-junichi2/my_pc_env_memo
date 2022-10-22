@@ -50,7 +50,8 @@
 - Osu
 
 ## Font
-- Caskaydia Cove Nerd Font
+- Caskaydia Cove Nerd Font for alacritty
+- HackGen NF for Powershell
 - (Noto Nerd Font)
 
 ## Archiver
